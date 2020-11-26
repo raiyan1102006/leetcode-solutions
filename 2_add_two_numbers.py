@@ -4,8 +4,6 @@
 # Memory Usage: 14.2 MB, less than 48.88% of Python3 online submissions for Add Two Numbers.
 
 
-
-
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, val=0, next=None):
